@@ -34,7 +34,7 @@ Space is limited, and hence onsite participation is by invitation only and requi
 If you have any questions, feel free to contact anyone of the organizing committee:
 
 [Hilmar Lapp], Duke University<br/>
-François Michonneau, University of Florida<br/>
+[François Michonneau], University of Florida<br/>
 Jasmine Nirody, UC Berkeley<br/>
 Kellie Ottoboni, UC Berkeley<br/>
 Tracy Teal, Data Carpentry<br/>
@@ -46,3 +46,4 @@ Jamie Whitacre, Project Jupyter, UC Berkeley Institute for Data Science<br/>
 [Data Carpentry]: http://datacarpentry.org
 [Jupyter Notebook]: http://jupyter.org
 [Hilmar Lapp]: http://orcid.org/0000-0001-9107-0714
+[François Michonneau]: mailto:francois.michonneau@gmail.com
