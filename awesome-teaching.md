@@ -8,3 +8,4 @@ Copying the concept of "list of awesome lists", here is a list of awesome data s
 - [Gallery of interesting Jupyter/IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 - [How to set up a data science blog](https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/)
 - [Ethan White's semester long python course](http://www.programmingforbiologists.org/)
+- [Essential skills for reproducible research computing](https://barbagroup.github.io/essential_skills_RRC/)
